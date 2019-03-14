@@ -4,10 +4,23 @@
 	align-items: center;
 	background-color:red;
 	color: white;
-	}
+}
 .menu-title {
-	justify-content: left;
-	}
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color:red;
+	color: white;
+	margin-left: 10px;
+}
+.CATEGORIES {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	background-color:red;
+	color: white;
+	margin-left: 10px;
+}
 A {
 	color: white;
 }
