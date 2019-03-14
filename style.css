@@ -5,6 +5,9 @@
 	background-color:red;
 	color: white;
 	}
-	A {
-		color: white;
+.menu-title {
+	justify-content: left;
 	}
+A {
+	color: white;
+}
