@@ -17,13 +17,11 @@ body {
 	margin-left: 10px;
 }
 .left {
-	display:block;
 	width: 25%;
 	background-color:white;
 }
 .leftnav {
 	margin-left: 75px;
-	vertical-align:center;
 }
 .link {
 	font-size: 14px;
@@ -44,4 +42,8 @@ body {
 }
 .leftnav A {
 	text-decoration: none;
+}
+.leftMenuItem {
+	display: flex;
+	align-items: center;
 }
