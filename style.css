@@ -17,7 +17,7 @@ body {
 	margin-left: 10px;
 }
 .left {
-	width: 25%;
+	width: 20%;
 	background-color:white;
 }
 .leftnav {
@@ -47,6 +47,5 @@ body {
 	display: flex;
 	height: 50px;
 	align-items: center;
-	border-bottom: 5px;
-	border-bottom-color: black;
+	border-bottom: 1px solid gray;
 }
