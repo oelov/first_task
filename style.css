@@ -45,5 +45,8 @@ body {
 }
 .leftMenuItem {
 	display: flex;
+	height: 50px;
 	align-items: center;
+	border-bottom: 5px;
+	border-bottom-color: black;
 }
