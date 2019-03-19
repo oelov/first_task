@@ -16,6 +16,10 @@ body {
 	color: white;
 	margin-left: 10px;
 }
+.left {
+	background-color:gray;
+
+}
 .link {
 	font-size: 14px;
 	margin-left: 15px;
@@ -27,9 +31,9 @@ body {
 	align-items: center;
 	background-color:red;
 	color: white;
-	margin-left: 10px;
+	margin-left: 75px;
 }
-A {
+.nav A {
 	color: white;
 	text-decoration: none;
 }
